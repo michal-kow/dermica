@@ -1,3 +1,3 @@
 # dermica
 
-This is static, fake website, created for educational purposes only
+This is static website with fake brand, created for educational purposes only
