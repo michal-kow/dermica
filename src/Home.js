@@ -114,21 +114,21 @@ const Home = () => {
               <div className="data phone">
                 <p><ImPhone /> &nbsp; +1-601-101-6006</p>
               </div>
-              <OuterLink to={{ pathname: "mailto: dr.susan.fillmore@gmail.com" }}  target="_blank" className="data mail">
+              <a href="mailto: dr.susan.fillmore@gmail.com" target="_blank" className="data mail">
                 <p><HiMail /> &nbsp; dr.susan.fillmore@gmail.com</p>
-              </OuterLink>
-              <OuterLink to={{ pathname: "https://goo.gl/maps/wU8z2881gjmDgbuU8" }}  target="_blank" className="data address">
+              </a>
+              <a href="https://goo.gl/maps/wU8z2881gjmDgbuU8" target="_blank" className="data address">
                 <p><MdPlace /> &nbsp; 20 East 30th Street, New York</p>
-              </OuterLink>
+              </a>
             </div>
           </div>
           {/* FOOTER */}
           <div className="footer">
             <div className="items">
               <div className="socials">
-                <OuterLink to={{ pathname: "https://www.instagram.com/dermica_clinic/" }} target="_blank"><BsInstagram /></OuterLink>
-                <OuterLink to={{ pathname: "https://www.facebook.com/dermica_clinic" }} target="_blank"><FaFacebookF /></OuterLink>
-                <OuterLink to={{ pathname: "https://www.tiktok.com/@dermica_clinic" }} target="_blank"><FaTiktok /></OuterLink>
+                <a href="https://www.instagram.com/dermica_clinic/" target="_blank"><BsInstagram /></a>
+                <a href="https://www.facebook.com/dermica_clinic" target="_blank"><FaFacebookF /></a>
+                <a href="https://www.tiktok.com/@dermica_clinic" target="_blank"><FaTiktok /></a>
               </div>
               <p>&copy; 2022 Michał Kowalik</p>
             </div>
