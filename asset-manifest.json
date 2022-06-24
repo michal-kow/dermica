@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dermica/static/css/main.a4ba2bbd.css",
-    "main.js": "/dermica/static/js/main.83901d7e.js",
+    "main.js": "/dermica/static/js/main.af1ebf64.js",
     "static/js/787.29c13fd4.chunk.js": "/dermica/static/js/787.29c13fd4.chunk.js",
     "static/media/water.jpg": "/dermica/static/media/water.d8e43aea0f60b7c8eca3.jpg",
     "static/media/hero_img.jpg": "/dermica/static/media/hero_img.35d9e34c8fda01f0dfcf.jpg",
@@ -13,11 +13,11 @@
     "static/media/product-2.jpg": "/dermica/static/media/product-2.3eec72f111f3ca1d3997.jpg",
     "index.html": "/dermica/index.html",
     "main.a4ba2bbd.css.map": "/dermica/static/css/main.a4ba2bbd.css.map",
-    "main.83901d7e.js.map": "/dermica/static/js/main.83901d7e.js.map",
+    "main.af1ebf64.js.map": "/dermica/static/js/main.af1ebf64.js.map",
     "787.29c13fd4.chunk.js.map": "/dermica/static/js/787.29c13fd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4ba2bbd.css",
-    "static/js/main.83901d7e.js"
+    "static/js/main.af1ebf64.js"
   ]
 }
