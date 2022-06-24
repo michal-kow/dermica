@@ -1,14 +1,13 @@
 import heroImage from './img/hero_img.jpg';
 import doctorImage from './img/doctor.jpg';
-import { Link, animateScroll as scroll } from "react-scroll";
+import { Link} from "react-scroll";
 import { Link as OuterLink } from 'react-router-dom';
 import { useEffect } from 'react';
 import { ImPhone } from 'react-icons/im';
 import { HiMail } from 'react-icons/hi';
 import { MdPlace } from 'react-icons/md';
-import { BsInstagram, BsFacebook, BsTwitter } from 'react-icons/bs';
+import { BsInstagram} from 'react-icons/bs';
 import { FaTiktok, FaFacebookF } from 'react-icons/fa';
-import { useState } from 'react';
 
 const Home = () => {
 
